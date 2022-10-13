@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ReactMeals/static/css/main.1f8b3743.css",
-    "main.js": "/ReactMeals/static/js/main.a359aef6.js",
+    "main.js": "/ReactMeals/static/js/main.7b90045a.js",
     "static/media/meals.jpg": "/ReactMeals/static/media/meals.2971f633fc1382581cbf.jpg",
     "index.html": "/ReactMeals/index.html",
     "main.1f8b3743.css.map": "/ReactMeals/static/css/main.1f8b3743.css.map",
-    "main.a359aef6.js.map": "/ReactMeals/static/js/main.a359aef6.js.map"
+    "main.7b90045a.js.map": "/ReactMeals/static/js/main.7b90045a.js.map"
   },
   "entrypoints": [
     "static/css/main.1f8b3743.css",
-    "static/js/main.a359aef6.js"
+    "static/js/main.7b90045a.js"
   ]
 }
